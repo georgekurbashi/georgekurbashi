@@ -1,0 +1,5 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\Logger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\Logger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Logger\obj\Debug\Logger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Logger\obj\Debug\Logger.pdb

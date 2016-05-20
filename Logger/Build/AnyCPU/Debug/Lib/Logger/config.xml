@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <level_base_file>
+    C:/Users/Андрей/Desktop/Учеба/Методы программирования/Logger/Build/AnyCPU/Debug/Lib/Logger/level.xml
+  </level_base_file>
+  <writer_base_file>
+    C:/Users/Андрей/Desktop/Учеба/Методы программирования/Logger/Build/AnyCPU/Debug/Lib/Logger/writer.xml
+  </writer_base_file>
+</config>

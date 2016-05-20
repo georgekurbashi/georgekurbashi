@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<writer>
+	<classes>
+		<item>
+			<key>
+				<string>ConsoleApplicationTest.Program</string>
+			</key>
+			<value>
+				<Writer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<_formatter xsi:type="AddClassName">
+					<_nextFormatter xsi:type="AddTime" />
+				</_formatter>
+				<_outputDevice xsi:type="Console">
+					<_nextOutputDevice xsi:type="Console">
+						<_nextOutputDevice xsi:type="File">
+							<_fileName>text.txt</_fileName>
+						</_nextOutputDevice>
+					</_nextOutputDevice>
+				</_outputDevice>
+				</Writer>
+			</value>
+		</item>
+		<item>
+			<key>
+				<string>ConsoleApplicationTest.SomeClass</string>
+			</key>
+			<value>
+				<Writer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<_formatter xsi:type="AddTime" />
+				<_outputDevice xsi:type="Console">
+					<_nextOutputDevice xsi:type="File">
+						<_fileName>text.txt</_fileName>
+					</_nextOutputDevice>
+				</_outputDevice>
+				</Writer>
+			</value>
+		</item>
+	</classes>
+	<assemblies>
+		<item>
+			<key>
+				<string>ConsoleApplicationTest</string>
+			</key>
+			<value>
+				<Writer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<_formatter xsi:type="AddTime" />
+				<_outputDevice xsi:type="Console" />
+				</Writer>
+			</value>
+		</item>
+	</assemblies>
+	<default>
+		<Writer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<_formatter xsi:type="AddTime" />
+				<_outputDevice xsi:type="Console" />
+				</Writer>
+	</default>
+</writer>

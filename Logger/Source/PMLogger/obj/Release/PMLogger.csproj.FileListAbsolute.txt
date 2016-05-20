@@ -1,0 +1,4 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\PMLogger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\PMLogger\obj\Release\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\PMLogger\obj\Release\PMLogger.pdb

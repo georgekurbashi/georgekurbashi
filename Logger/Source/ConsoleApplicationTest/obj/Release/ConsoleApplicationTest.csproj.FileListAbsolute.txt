@@ -1,0 +1,11 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Release\ConsoleApplicationTest.exe.config
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Release\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Release\ConsoleApplicationTest.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Release\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Release\PMLogger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\ConsoleApplicationTest.exe.config
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\ConsoleApplicationTest.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Release\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Release\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Release\ConsoleApplicationTest.pdb

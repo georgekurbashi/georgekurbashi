@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<level>
+	<classes>
+		<item>
+			<key>
+				<string>ConsoleApplicationTest.Program</string>
+			</key>
+			<value>
+				<LogLevel>Debug</LogLevel>
+			</value>
+		</item>
+    <item>
+      <key>
+        <string>ConsoleApplicationTest.SomeClass</string>
+      </key>
+      <value>
+        <LogLevel>Info</LogLevel>
+      </value>
+    </item>
+	</classes>
+	<assemblies>
+		<item>
+			<key>
+				<string>ConsoleApplicationTest</string>
+			</key>
+			<value>
+				<LogLevel>Warning</LogLevel>
+			</value>
+		</item>
+	</assemblies>
+	<default>
+		<LogLevel>Debug</LogLevel>
+	</default>
+</level>

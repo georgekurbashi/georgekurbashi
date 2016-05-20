@@ -1,0 +1,5 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\PMLogger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\PMLogger\obj\Debug\PMLogger.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\PMLogger\obj\Debug\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\PMLogger\obj\Debug\PMLogger.pdb

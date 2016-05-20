@@ -1,0 +1,20 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Debug\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\bin\Debug\PMLogger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.exe.config
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
+C:\Users\Андрей\Desktop\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.exe.config
+C:\Users\Андрей\Desktop\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\Users\Андрей\Desktop\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.exe.config
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.exe
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Build\AnyCPU\Debug\ConsoleApplicationTest.pdb
+C:\Users\Андрей\Desktop\Учеба\Методы программирования\Logger\Source\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache

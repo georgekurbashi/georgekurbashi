@@ -1,0 +1,10 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\bin\Debug\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\bin\Debug\Tests.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\bin\Debug\nunit.framework.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\bin\Debug\PMLogger.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\bin\Debug\PMLogger.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Debug\Tests.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Debug\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Debug\Tests.pdb

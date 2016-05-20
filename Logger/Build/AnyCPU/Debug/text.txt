@@ -1,0 +1,6 @@
+[Class : ConsoleApplicationTest.Program] [14:46:00.7057318] ololo
+[Class : ConsoleApplicationTest.Program] [14:46:00.7087320] ololo
+[Class : ConsoleApplicationTest.Program] [14:46:40.0899845] ololo
+[Class : ConsoleApplicationTest.Program] [14:46:40.0929846] ololo
+[Class : ConsoleApplicationTest.Program] [10:07:53.5317580] ololo
+[Class : ConsoleApplicationTest.Program] [10:07:53.5737604] ololo

@@ -1,0 +1,7 @@
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Tests.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Build\AnyCPU\Release\Tests.pdb
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Release\Tests.dll
+E:\Documents\Coding\Projects\ProMethods\Logger\Source\Tests\obj\Release\Tests.pdb
